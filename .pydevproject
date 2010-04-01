@@ -3,11 +3,11 @@
 
 <pydev_project>
 <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
-<path>/conway/lib/spg-src-0.9.2</path>
-<path>/conway/lib/cMenu</path>
-<path>/conway/src</path>
-<path>/conway/test</path>
-<path>/conway/src/gamexp</path>
+<path>/pyconway/lib/spg-src-0.9.2</path>
+<path>/pyconway/lib/cMenu</path>
+<path>/pyconway/src</path>
+<path>/pyconway/test</path>
+<path>/pyconway/src/gamexp</path>
 </pydev_pathproperty>
 <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 2.6</pydev_property>
 <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
